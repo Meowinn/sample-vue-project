@@ -7,7 +7,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
   <header>
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="You did it! Your run vue on Windows!" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
